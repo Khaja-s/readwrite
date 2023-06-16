@@ -1,0 +1,51 @@
+{
+  "checklists": [
+    {
+      "name": "Checklist 1",
+      "items": [
+        {
+          "name": "Sun Screen",
+          "serial": "1686862808682"
+        },
+        {
+          "name": "Watch",
+          "serial": "1686862861132"
+        },
+        {
+          "name": "Wallet",
+          "serial": "1686862868696"
+        }
+      ]
+    },
+    {
+      "name": "Checklist 2",
+      "items": [
+        {
+          "name": "Keys",
+          "serial": "1686862870926"
+        },
+        {
+          "name": "Perfume",
+          "serial": "1686868064520"
+        },
+        {
+          "name": "Namaz",
+          "serial": "1686871004108"
+        }
+      ]
+    },
+    {
+      "name": "Checklist 3",
+      "items": [
+        {
+          "name": "Hug&Kissie to Shifu",
+          "serial": "1686871055811"
+        },
+        {
+          "name": "Airpods",
+          "serial": "1686919477241"
+        }
+      ]
+    }
+  ]
+}
